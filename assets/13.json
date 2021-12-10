@@ -1,0 +1,46 @@
+{
+  "name": "PanDAO #13",
+  "symbol": "YC",
+  "description": "Panda ",
+  "seller_fee_basis_points": 5000,
+  "image": "image.png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 13,
+  "attributes": [
+    {
+      "trait_type": "fur",
+      "value": "FUR_04"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "CLOTHING_01"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "EYES_01"
+    },
+    {
+      "trait_type": "hat",
+      "value": "HAT_02"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "MOUTH_01"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9b85SKiN2T3YY5f9qK7hsArXePRJrjvJ4eY5BNPRa3Nz",
+        "share": 100
+      }
+    ]
+  }
+}
